@@ -5,7 +5,7 @@
 
     <groupId>com.wavefront.slimfast</groupId>
     <artifactId>slimfast-parent</artifactId>
-    <version>0.22</version>
+    <version>0.23-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <prerequisites>
